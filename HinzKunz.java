@@ -10,7 +10,7 @@ import java.awt.event.*;
   * Datum: 01.12.2017
   *
   * @author Dietmar Trautmann dietmar.trautmann@web.de
-  * @version 1.3  16.11.2017 Version3 komplett
+  * @version 1.4  16.11.2017 Version3 komplett
   *
   * Klasse HinzKunz stellt 2 Messschieber dar, die mit der Maus eingestellt werden können
   * je nach Wert wird über eine Textausgabe beschrieben welcher Wert grösser ist, Hinz oder Kunz

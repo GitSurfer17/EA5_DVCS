@@ -4,7 +4,7 @@
  /**EA3
   *
   * MeinWindowAdapter.java
-  * Datum: 16.11.2017
+  * Datum: 01.12.2017
   *
   * @author Dietmar Trautmann dietmar.trautmann@web.de
   *
